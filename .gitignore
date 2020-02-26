@@ -136,3 +136,6 @@ dmypy.json
 
 # pipenv
 Pipfile*
+
+# vscode
+.vscode/
