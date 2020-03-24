@@ -139,3 +139,6 @@ Pipfile*
 
 # vscode
 .vscode/
+
+# jetbrains
+.idea/
