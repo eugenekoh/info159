@@ -1,0 +1,6 @@
+Both model are not sensitive to the context due to the scoping an appropriate vocabulary size and model complexity for the homework. Hence it is difficult to evaluate the quality of response. 
+
+In terms of the trend, I think the positive model tends to answer with phrases to agree with the situation. The positive model achieves this by using phrases such as "she does" or "i'm sure". It also uses words that signal positivity such as "best" or "good". It is interesting to note that the positive model generates a lot of "!" to signal positivity when evaluating on negative data to show. The negative model does the opposite to disagree and almost always uses the word "not" in its sentence. However, it is not as likely as the positive model to use specific keywords which may help it to better generalize its responses. 
+
+Both models perform similarly in transfer evaluation with the negative data slightly up ahead. They are still able to perform well as they use words and phrases that are very general and does not really relate to the previous turn's context. 
+
